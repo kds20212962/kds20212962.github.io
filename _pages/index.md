@@ -3,8 +3,8 @@ layout: default
 avatar: true
 permalink: /
 ---
-## 🚀 Hello World
-You can use this page to showcase your work, portfolio/project, your Latest post {% for post in site.posts limit: 1 %}<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% endfor %} or another stuff that you love to share to the world.
+## 🚀 블로그에 오신걸 환영합니다.
+본 블로그는 유레카 프로젝트의 '블로그 만들기' 수업을 이행하며 만들어졌고, 특강에 다뤄졌던 내용 Topic 중 배운 내용에 관해 Post 작성될 것입니다.
 
 ---
 
