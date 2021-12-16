@@ -11,10 +11,7 @@ categories: jekyll update
 
 ![image](https://user-images.githubusercontent.com/84118154/146315387-d2395dfb-d275-4ab2-9f2e-2d823b9e48e1.png)
 
+# 깃허브?
+ 분산 버전 관리 툴인 깃 (Git)저장소 호스팅을 지원하는 웹 서비스이다
+![image](https://user-images.githubusercontent.com/84118154/146315596-b10eeb34-b91a-47d7-a480-d7aab1fc0c6a.png)
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
