@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git&Github!"
-date:   2021-12-16 14:38:21 +0700
+date:   2021-12-16 15:2:21 +0700
 categories: jekyll update
 ---
 # 깃이란?
