@@ -32,4 +32,6 @@
 ## kds20212962.github.io에 접속하면 작동하는 것을 볼 수 있음.
 * https://kds20212962.github.io/
 
-123
+## post 생성
+* _posts 폴더에서 YYYY-MM-DD-TITLE.md 형태로 새로운 문서를 생성
+* 이후 각 문서를 형식에 맞게 생성후 markdown을 통해 내용 작성
