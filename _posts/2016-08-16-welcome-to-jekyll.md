@@ -1,22 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-09-02 10:59:21 +0700
+title:  "Git&Github!"
+date:   2021-12-16 14:38:21 +0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# 깃이란?
+분산형 버전 관리 시스템(VCS)이다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+깃은 다양한 명령어를 통해 이루어진다.
 
-Jekyll also offers powerful support for code snippets:
+![image](https://user-images.githubusercontent.com/84118154/146315387-d2395dfb-d275-4ab2-9f2e-2d823b9e48e1.png)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
