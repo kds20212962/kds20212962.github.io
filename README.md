@@ -30,4 +30,4 @@
 * git push origin main
 
 ## kds20212962.github.io에 접속하면 작동하는 것을 볼 수 있음.
-* https://kds0212962.github.io
+* https://kds20212962.github.io/
