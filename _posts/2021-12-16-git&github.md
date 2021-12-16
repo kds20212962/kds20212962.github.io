@@ -9,9 +9,13 @@ categories: jekyll update
 
 깃은 다양한 명령어를 통해 이루어진다.
 
-![git](https://user-images.githubusercontent.com/84118154/146315387-d2395dfb-d275-4ab2-9f2e-2d823b9e48e1.png)
+* git add
+* git coomit
+* git push
+* git pull
+
 
 # 깃허브?
  분산 버전 관리 툴인 깃 (Git)저장소 호스팅을 지원하는 웹 서비스이다
-![github](https://user-images.githubusercontent.com/84118154/146315596-b10eeb34-b91a-47d7-a480-d7aab1fc0c6a.png)
+Local 저장소에서 원격 저장소로 파일을 저장하게 되는데 그 때 원격 저장소를 깃허브에서 맡고 있다.
 
